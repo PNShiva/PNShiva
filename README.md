@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PNShiva
+- 👋 Hi, I’m @PNarendraShiva
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Software Development Environment
